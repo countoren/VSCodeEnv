@@ -1,0 +1,4 @@
+*.bak*
+/result
+/.vscode
+*.swp
